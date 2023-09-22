@@ -1,0 +1,85 @@
+/* Estilos para el cuerpo (body) */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos para el encabezado (header) */
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  header h1 {
+    font-size: 36px;
+    margin: 0;
+  }
+  
+  header p {
+    font-size: 18px;
+  }
+  
+  /* Estilos para la navegación (nav) */
+  nav {
+    background-color: #444;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  /* Estilos para el contenido principal (main) */
+  main {
+    padding: 20px;
+  }
+  
+  /* Estilos para las secciones */
+  section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  section h2 {
+    font-size: 24px;
+    margin: 0 0 10px;
+  }
+  
+  section p {
+    font-size: 16px;
+    margin: 0;
+  }
+  
+  /* Estilos para el pie de página (footer) */
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  /* Estilos para los enlaces en hover */
+  a:hover {
+    color: #ff6600; /* Cambia el color al pasar el ratón sobre los enlaces */
+  }
+  
